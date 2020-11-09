@@ -39,7 +39,7 @@ public class ResponseObject {
      * Sets timestamp, response message and response object.
      *
      * @param message Success/Failure message value.
-     * @param data
+     * @param data Value of response object data.
      */
     public ResponseObject(String message, Object data) {
         this();
